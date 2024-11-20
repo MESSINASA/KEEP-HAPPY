@@ -1,0 +1,12 @@
+mental-health-test/
+├── index.html
+├── css/
+│   ├── style.css
+│   └── responsive.css
+├── js/
+│   ├── app.js
+│   ├── questions.js
+│   ├── results.js
+│   └── game.js
+└── assets/
+    └── images/ 
